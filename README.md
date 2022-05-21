@@ -1,2 +1,2 @@
 # MemoryGame
-Memory game made for JavaScript class
+Memory card game made for JavaScript class
